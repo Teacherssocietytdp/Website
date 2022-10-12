@@ -1,0 +1,21 @@
+h1{
+    margin-top: 3rem;
+    text-align: center;
+    
+
+}
+body{
+    background-color: cornsilk;
+}
+.sentence{
+    padding-left: 5rem;
+    background-color: antiquewhite;
+    font-style: italic;
+    word-spacing: 5px;
+}
+.list{
+    margin-top: 5rem;
+    padding-left: 3rem;
+    font-style: italic;
+    word-spacing: 5px;
+}
