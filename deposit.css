@@ -1,7 +1,11 @@
-table th,
-  table td {
+table th
+  {
     padding: .625em;
     text-align: left;
+  }
+  table td {
+    padding: .625em;
+    text-align: center;
   }
   table {
     border: 1px solid #ccc;
